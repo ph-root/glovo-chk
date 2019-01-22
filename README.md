@@ -25,10 +25,10 @@ IN WIN OR TERMUX :
  # RUNNING
  
  IN LINUX:
-+ python3 glovo.py
++ python3 glove.py
 
 IN WIN OR TERMUX:
-+ python glovo.py
++ python glove.py
 
 # Disclaimer :
 
