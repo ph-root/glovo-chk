@@ -1,7 +1,7 @@
 # Glovo checker
 + the script written by python3
-+ the script based on bruteforce attack
-+ it can crack a large number of Glovo accounts in short time
++ the script based on bruteforce attack via HTTP/HTTPS Protocol
+
 
 # INSTALLATION
 
