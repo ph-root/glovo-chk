@@ -38,7 +38,4 @@ IN WIN OR TERMUX:
 
 + This Script contains materials that can be potentially damaging or dangerous. If you do not fully understand something on this Script, then GO OUT OF HERE! Refer to the laws in your province/country before accessing, using,or in any other way utilizing the script.These materials are for educational and research purposes only.Do not attempt to violate the law with anything contained here. If this is your intention, then LEAVE NOW! Neither administration of this server, the authors of this material, or anyone else affiliated in any way, is going to accept responsibility for your actions.
 
-# CONTACT ME :
-+           CODER : BEN_TH                       
-+           FB : www.facebook.com/bassem.beso.18659         
-      
+
